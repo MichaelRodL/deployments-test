@@ -3,6 +3,7 @@ kind: Service
 metadata:
   name: nginx
   namespace: nano
+  ananananana
 spec:
   ports:
     - name: http
