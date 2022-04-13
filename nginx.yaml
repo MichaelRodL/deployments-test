@@ -1,8 +1,9 @@
 apiVersion: v1
 kind: Service
-metadata:
+metadata:dfsdfsdfsdfsdf
   name: nginx
-  namespace: default
+  namespace: nano
+  ananananana
 spec:
   ports:
     - name: http
